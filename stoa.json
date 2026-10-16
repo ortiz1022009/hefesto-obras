@@ -4,9 +4,9 @@
  "enlace": "",
  "portada": "https:\/\/raw.githubusercontent.com\/ortiz1022009\/hefesto-obras\/main\/portada.gif?v=1792190605",
  "fijada": 0,
- "mostrarFuego": false,
+ "mostrarFuego": true,
  "mostrarRepos": true,
- "mostrarCifras": false,
- "buscable": false,
- "nombreGitHub": false
+ "mostrarCifras": true,
+ "buscable": true,
+ "nombreGitHub": true
 }
